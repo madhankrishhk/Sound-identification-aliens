@@ -1,0 +1,38 @@
+body {
+    font-family: 'Special Elite', cursive;
+    background-image: linear-gradient(to right, rgb(238, 108, 108),rgb(245, 186, 76),rgb(243, 243, 78),rgb(69, 238, 69),rgb(80, 80, 241),rgb(164, 72, 230),rgb(243, 140, 243));
+}
+
+.header_div {
+    background-image: linear-gradient(to right, rgb(238, 108, 108),rgb(245, 186, 76),rgb(243, 243, 78),rgb(69, 238, 69),rgb(80, 80, 241),rgb(164, 72, 230),rgb(243, 140, 243));
+    color: #ce2700;
+    
+}
+
+.header_div p {
+    font-family: 'Roboto', sans-serif;
+    color: gray;
+    letter-spacing:2px;
+    font-size:12px;
+    font-weight: bold;
+}
+
+.main_div button {
+    font-family: 'Roboto', sans-serif;
+    margin-top:30px;
+    width:130px;
+    font-weight: bolder;
+    letter-spacing:3px;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color:#6c757d;
+    bottom: 0;
+    width:100%;
+    font-size: 18px;
+    background-color: #f5f5f5;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(151, 149, 149);
+}
